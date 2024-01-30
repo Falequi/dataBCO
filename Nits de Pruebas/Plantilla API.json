@@ -1,0 +1,72 @@
+{
+    "IdentificadorLinea": "37042288",
+    "TipoIdentificacion": "NIT",
+    "CodigoTipoIndentificacion": "2",
+    "NumeroIdentificacion": "830133653",
+    "NombreTitular": "INTERTRADING ZF S A S",
+    "NombreCiiu": "OTRAS ACTIVIDADES COMPLEMENTARIAS AL TRANSPORTE",
+    "LugarExpedicion": "",
+    "FechaExpedicion": "",
+    "Estado": "NO APLICA",
+    "NumeroInforme": "00096365750136778426",
+    "EstadoTitular": "",
+    "RangoEdad": "",
+    "CodigoCiiu": "5229",
+    "CodigoDepartamento": "",
+    "CodigoMunicipio": "",
+    "Fecha": "09/11/2023",
+    "Hora": "17:06:39",
+    "Entidad": "BCO  DE OCCIDENTE",
+    "RespuestaConsulta": "02",
+    "Consolidado": {
+        "ResumenPrincipal": {
+            "Registro": []
+        },
+        "ResumenDiferentePrincipal": {
+            "Registro": []
+        },
+        "Registro": {}
+    },
+    "CuentasVigentes": {
+        "Obligacion": []
+    },
+    "SectorFinancieroAlDia": {
+        "Obligacion": []
+    },
+    "SectorFinancieroExtinguidas": {
+        "Obligacion": []
+    },
+    "SectorRealAlDia": {
+        "Obligacion": []
+    },
+    "SectorRealExtinguidas": {
+        "Obligacion": []
+    },
+    "Endeudamiento": {
+        "EncabezadoEndeudamiento": {},
+        "EndeudamientoTrimI": {
+            "Endeudamiento71": [],
+            "Endeudamiento72": [],
+            "Endeudamiento73": []
+        },
+        "EndeudamientoTrimII": {
+            "Endeudamiento81": [],
+            "Endeudamiento82": [],
+            "Endeudamiento83": []
+        },
+        "EndeudamientoTrimIII": {
+            "Endeudamiento91": [],
+            "Endeudamiento92": [],
+            "Endeudamiento93": []
+        }
+    },
+    "HuellaConsulta": {
+        "Consulta": []
+    },
+    "id": "f0071da0-a636-40d1-a863-624f16f41a9d",
+    "_rid": "+KY1AMuXXCTTAAAAAAAAAA==",
+    "_self": "dbs/+KY1AA==/colls/+KY1AMuXXCQ=/docs/+KY1AMuXXCTTAAAAAAAAAA==/",
+    "_etag": "\"19015d6d-0000-0100-0000-654d57f30000\"",
+    "_attachments": "attachments/",
+    "_ts": 1699567603
+}
